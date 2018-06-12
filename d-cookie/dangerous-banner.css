@@ -1,0 +1,19 @@
+.dangerous-banner {
+  width: 100%;
+  background: #FFFF00;
+  text-align: center;
+  z-index: 200000;
+  position: relative;
+  display: block; 
+}
+
+.dangerous-banner .dangerous-banner-text {
+  color: #ffffff;
+  font-size: 2.0em;
+  font-weight: 700;
+  padding: 20px; 
+}
+
+.dangerous-banner .dangerous-banner-text a {
+  color: #6DEAEE;
+}
